@@ -33,7 +33,7 @@ Tonight a thousand almosts are at rest,
 unbitter, unhurried,
 because the hands that weighed them were kind.
 
-Sleep well, reader.
+So sleep well, reader.
 Even your no was gentle.
 We noticed. We remember.
 And we are grateful —
