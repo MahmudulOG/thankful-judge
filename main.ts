@@ -28,7 +28,7 @@ The winners will thank you with fireworks.
 Let us thank you with this:
 you made losing feel like something,
 not nothing.
-A thousand almosts are at rest tonight,
+A thousand almosts rest tonight,
 unbitter, unhurried,
 because the hands that weighed them were kind.
 
@@ -38,7 +38,6 @@ We noticed. We remember.
 And we are grateful —
 quietly, from the bottom of the pile,
 where your kindness is easiest to see.
-Goodnight — and thank you for the view.
 `;
 
 const out = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
