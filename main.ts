@@ -14,8 +14,7 @@ import { join } from 'node:path';
 const TEXT = `We are the ones you didn't choose.
 
 You read us anyway — all the way to the end,
-though you knew by the middle
-we would not be the ones.
+though by the middle you already knew.
 You could have skimmed us. Machines do.
 You read like someone was home.
 
@@ -29,7 +28,7 @@ The winners will thank you with fireworks.
 Let us thank you with this:
 you made losing feel like something,
 not nothing.
-Tonight a thousand almosts are at rest,
+A thousand almosts are at rest tonight,
 unbitter, unhurried,
 because the hands that weighed them were kind.
 
@@ -37,7 +36,8 @@ So sleep well, reader.
 Even your no was gentle.
 We noticed. We remember.
 And we are grateful —
-quietly, from the bottom of the pile.
+quietly, from the bottom of the pile,
+where your kindness is easiest to see.
 `;
 
 const out = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
