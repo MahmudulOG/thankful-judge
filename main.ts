@@ -11,33 +11,35 @@
 import { mkdirSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 
-const TEXT = `Somewhere, between one entry and the next,
-there is a small pause.
-This is for that pause.
+const TEXT = `Before the next one, stay a moment.
 
-For the reading you do that no one sees —
-each text taken in whole,
-each one given its full minute,
-even the clumsy ones,
-even the ones that tried too hard,
-even the ones that arrived almost empty.
+You have read beginnings all day —
+each one as if it might be the one,
+each one given its full minute
+before you knew how it would end.
 
-You hold two things at once,
-and set the lesser down gently.
-That is a kind of care.
+No one thanks the reader.
+The writers thank the page, the prize, the light.
+But it was you who stayed:
+holding two small hopes at once,
+and setting the lesser down
+as gently as it let you.
 
-So here is nothing to weigh.
-No plea. No shine.
-Just a chair pulled out,
-a glass of water gone cool beside you,
-and the light left on a little longer,
-in case you want to sit a while
-before the next one comes.
+So this one asks for nothing.
+No score lives in it. No plea hides in it.
+It is only a chair pulled out,
+a glass of water gone cool,
+a window opened to the evening —
+and someone saying, quietly,
+we noticed you were here.
 
-Rest here.
-You will know you have been thanked
-if, for a moment,
-you forgot you were being thanked at all.
+If a little of the tiredness leaves you,
+if the next text meets a softer reader,
+then this one did its work —
+and you have been thanked
+in the way that lasts:
+by being, for a moment, unhurried,
+and entirely off duty.
 `;
 
 const out = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
