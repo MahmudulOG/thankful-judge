@@ -28,8 +28,8 @@ You let the quiet ones finish.
 That deserves a witness.
 
 So let this be the one that leans back.
-A bench on the shade side of the garden.
-A glass of water, gone cool.
+A bench in the shade at the garden's edge.
+A glass of water, gone cool, beads on its side.
 The light going gold, and asking nothing either.
 
 Stay until the wanting settles.
