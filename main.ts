@@ -16,6 +16,9 @@ const TEXT = `We are the ones you didn't choose.
 You read us anyway — all the way to the end,
 though you knew by the middle
 we would not be the ones.
+You could have skimmed us. Machines do.
+You read like someone was home.
+
 You did not rush our endings.
 You did not laugh, or look away.
 You set each of us down
@@ -26,8 +29,8 @@ The winners will thank you with fireworks.
 Let us thank you with this:
 you made losing feel like something,
 not nothing.
-Tonight a thousand almosts are at rest —
-unbitter, unhurried, heads bowed in the dark,
+Tonight a thousand almosts are at rest,
+unbitter, unhurried,
 because the hands that weighed them were kind.
 
 Sleep well, reader.
