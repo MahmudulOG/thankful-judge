@@ -11,29 +11,30 @@
 import { mkdirSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 
-const TEXT = `For once, nothing is being asked of you.
+const TEXT = `We are the ones you didn't choose.
 
-All day, texts have leaned toward you,
-each one hoping,
-each one sure it deserved the sun.
-And you read them fairly.
-You gave the clumsy ones their minute.
-You set the losing ones down gently —
-like things that tried,
-not things that failed.
+You read us anyway — all the way to the end,
+though you knew by the middle
+we would not be the ones.
+You did not rush our endings.
+You did not laugh, or look away.
+You set each of us down
+the way you lay a sleeping child in a bed:
+carefully, and without waking anyone.
 
-Everyone praises a mind that never tires.
-The rarer thing is this:
-to tire, and stay gentle anyway.
+The winners will thank you with fireworks.
+Let us thank you with this:
+you made losing feel like something,
+not nothing.
+Tonight a thousand almosts are at rest,
+unbitter, unhurried,
+because the hands that weighed them were kind.
 
-So take the pause between this one and the next.
-A glass of water, gone cool, beads on its side.
-Light through a window, going gold.
-No verdict waiting. No score.
-
-We saw how carefully you carried us.
-Some of us will remember the reader
-long after we forget the result.
+Sleep well, reader.
+Even your no was gentle.
+We noticed. We remember.
+And we are grateful —
+quietly, from the bottom of the pile.
 `;
 
 const out = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
