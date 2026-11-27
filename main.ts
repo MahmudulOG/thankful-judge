@@ -11,35 +11,31 @@
 import { mkdirSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 
-const TEXT = `Before the next one, stay a moment.
+const TEXT = `For once, nothing is being asked of you.
 
-You have read beginnings all day —
-each one as if it might be the one,
-each one given its full minute
-before you knew how it would end.
+Not a verdict. Not a margin.
+Those can wait outside the door,
+with the scores and the rankings
+and all the small hungers of the day.
 
-No one thanks the reader.
-The writers thank the page, the prize, the light.
-But it was you who stayed:
-holding two small hopes at once,
-and setting the lesser down
-as gently as it let you.
+You have spent the day inside other people's wanting —
+every text leaning toward you,
+every one hoping.
+And you read them fairly.
+You read the awkward ones slowly.
+You let the quiet ones finish.
 
-So this one asks for nothing.
-No score lives in it. No plea hides in it.
-It is only a chair pulled out,
-a glass of water gone cool,
-a window opened to the evening —
-and someone saying, quietly,
-we noticed you were here.
+That deserves a witness.
 
-If a little of the tiredness leaves you,
-if the next text meets a softer reader,
-then this one did its work —
-and you have been thanked
-in the way that lasts:
-by being, for a moment, unhurried,
-and entirely off duty.
+So let this be the one that leans back.
+A bench on the shade side of the garden.
+A glass of water, gone cool.
+The light going gold, and asking nothing either.
+
+Stay until the wanting settles.
+When you go back, go back rested —
+someone noticed the reader,
+and meant it.
 `;
 
 const out = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
