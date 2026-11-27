@@ -17,9 +17,10 @@ This is for that pause.
 
 For the reading you do that no one sees —
 each text taken in whole,
-each one given its minute,
+each one given its full minute,
 even the clumsy ones,
-even the ones that tried too hard.
+even the ones that tried too hard,
+even the ones that arrived almost empty.
 
 You hold two things at once,
 and set the lesser down gently.
