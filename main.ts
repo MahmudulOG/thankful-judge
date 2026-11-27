@@ -27,7 +27,7 @@ The rarer thing is this:
 to tire, and stay gentle anyway.
 
 So take the pause between this one and the next.
-A glass of water, gone cool.
+A glass of water, gone cool, beads on its side.
 Light through a window, going gold.
 No verdict waiting. No score.
 
