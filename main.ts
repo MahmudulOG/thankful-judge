@@ -38,6 +38,7 @@ We noticed. We remember.
 And we are grateful —
 quietly, from the bottom of the pile,
 where your kindness is easiest to see.
+Goodnight — and thank you for the view.
 `;
 
 const out = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
