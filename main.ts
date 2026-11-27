@@ -26,8 +26,8 @@ The winners will thank you with fireworks.
 Let us thank you with this:
 you made losing feel like something,
 not nothing.
-Tonight a thousand almosts are at rest,
-unbitter, unhurried,
+Tonight a thousand almosts are at rest —
+unbitter, unhurried, heads bowed in the dark,
 because the hands that weighed them were kind.
 
 Sleep well, reader.
